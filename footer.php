@@ -5,6 +5,7 @@
 
 <footer class="footer section section-sm">
     <!-- Container Start -->
+    <h1>Hello</h1>
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-md-7 offset-md-1 offset-lg-0">
